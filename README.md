@@ -22,11 +22,33 @@ ReservationX is a simple seat reservation system implemented in C# using WPF (Wi
 
 ## Installation
 
-To run the ReservationX application:
+To run the ReservationX application, follow these steps:
 
-1. Clone or download the repository.
-2. Open the project in Visual Studio.
-3. Build and run the project.
+### Prerequisites
+
+- Visual Studio installed on your machine.
+- Basic understanding of C# and WPF.
+
+### Steps
+
+1. **Clone or Download the Repository**: 
+   - Clone the ReservationX repository to your local machine using Git:
+     ```
+     git clone https://github.com/YourUsername/ReservationX.git
+     ```
+   - Alternatively, you can download the repository as a ZIP file and extract it to a folder on your computer.
+
+2. **Open the Project in Visual Studio**:
+   - Launch Visual Studio.
+   - Click on "Open a project or solution" and navigate to the folder where you cloned or extracted the ReservationX repository.
+   - Select the ReservationX.sln solution file and click "Open".
+
+3. **Build and Run the Project**:
+   - Once the project is opened in Visual Studio, build the solution by clicking on the "Build" menu and selecting "Build Solution" (or pressing Ctrl+Shift+B).
+   - After the build is successful, run the project by clicking on the "Start" button (or pressing F5).
+
+4. **Explore the Application**:
+   - The ReservationX application should now be running. You can explore its features, reserve seats, view available seats, and manage reservations.
 
 ## Usage
 
