@@ -72,4 +72,4 @@ Contributions to ReservationX are welcome! If you'd like to contribute, please f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is not currently licensed. Use of the code is at your own risk.
